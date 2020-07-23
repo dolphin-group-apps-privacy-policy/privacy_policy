@@ -25,6 +25,23 @@ Link to privacy policy of third party service providers used by the app
 
 * [Google Play Services](https://www.google.com/policies/privacy/)
 
+# Privacy Policy Of Library Used In Apps
+
+For a better experience, while using our Service, I may require you to provide us with certain
+                    personally identifiable information. The information that I request is retained on your device and is not collected by me in any way
+                    
+The app does use third party services that may collect information used to identify you.
+
+Link to privacy policy of third party service providers used by the app
+
+* [cheshmak Services](https://www.cheshmak.me/privacy-policy)
+
+* [Google Analytics Services](https://marketingplatform.google.com/about/analytics/terms/us/)
+
+* [Google Analytics for Firebase Services](https://firebase.google.com/policies/analytics?authuser=0)
+
+* [Google Services EU user consent policy](https://www.google.com/about/company/user-consent-policy.html?authuser=0)
+
 #  Log Data 
 
 I want to inform you that whenever you use my Service, in a case of an
